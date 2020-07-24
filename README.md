@@ -16,7 +16,7 @@ Refquired input files, in the same directory as this Python code.
 - cosimlex_en.csv: gold labels
 - lmms_1024.bert-large-cased.txt: pre-calculated average vectors for word senses, from Loureiro et al. (2019)
 
-The word sense vectors (lmms_1024.bert-large-cased.txt) can be obtained from: https://github.com/danlou/lmms
+The word sense vectors (lmms_1024.bert-large-cased.txt) can be obtained from: https://github.com/danlou/lmms#download-sense-embeddings
 
 Start the script with Python 3.7.6 using 'python corrmodel.v2.py" on the terminal. To understand the algorithm, you can uncomment additional print commands in the code.
 
