@@ -2,7 +2,8 @@
 Combining BERT with WordNet sense embeddings to predict graded word similarity changes
 
 This system is described in the paper "UZH at SemEval-2020 Task 3: Combining BERT with WordNet sense embeddings to predict 
-graded word similarity changes" (July 2020, submitted), by Li Tang (University of Zurich, Switzerland).
+graded word similarity changes" (July 2020, submitted), by Li Tang (University of Zurich, Switzerland). The paper was accepted
+and will be discussed in a poster presentation at SemEval-2020, 12-13 Dec 2020, http://alt.qcri.org/semeval2020/ 
 
 SemEval 2020, task 3: https://competitions.codalab.org/competitions/20905
 
